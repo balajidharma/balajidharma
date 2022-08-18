@@ -12,19 +12,25 @@ I´m Balaji Dharmaraja
   ![PhpStorm](https://img.shields.io/badge/-PhpStorm%20IDEA-black?style=flat-square&logo=phpstorm)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+  ![React](https://img.shields.io/badge/-React-3b2e5a?style=square&logo=react)
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=square&logo=postgresql)
+  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=square&logo=amazon-aws)
 
 ## ⚡ GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=balajidharma&show_icons=true&count_private=true&theme=gruvbox" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajidharma&layout=compact&count_private=true&theme=gruvbox" />
 
+<br/>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101)
+
+## Found my profile interesting and help you on anything?
+<a href="https://www.buymeacoffee.com/itsbalajid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
