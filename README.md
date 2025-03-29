@@ -36,8 +36,6 @@ I´m Balaji Dharmaraja
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajidharma&layout=compact&count_private=true&theme=gruvbox" />
 <br/>
 
-[![roadmap.sh](https://roadmap.sh/card/tall/664b5281bc68b74d9bf8a55b?variant=dark&roadmaps=javascript%2Cnodejs%2Creact%2Cvue)](https://roadmap.sh)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=balajidharma.balajidharma)
 ## Found my profile interesting and help you on anything?
 <a href="https://www.buymeacoffee.com/itsbalajid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
