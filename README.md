@@ -45,12 +45,6 @@ I´m Balaji Dharmaraja
   ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
   ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 
-## ⚡ GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=balajidharma&show_icons=true&count_private=true&theme=gruvbox" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajidharma&layout=compact&count_private=true&theme=gruvbox" />
-<br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=balajidharma.balajidharma)
 ## Found my profile interesting and help you on anything?
