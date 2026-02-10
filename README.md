@@ -3,16 +3,6 @@
 I´m Balaji Dharmaraja
 
 ## 🚀💻 Technologies & Tools
-
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-  ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![PhpStorm](https://img.shields.io/badge/-PhpStorm%20IDEA-black?style=flat-square&logo=phpstorm)
-  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)
-
   ![NodeJs](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
   ![NestJs](https://img.shields.io/badge/NestJS-red?style=flat-square&logo=nestjs)
@@ -20,6 +10,16 @@ I´m Balaji Dharmaraja
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)
   ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff)
+
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+  ![PhpStorm](https://img.shields.io/badge/-PhpStorm%20IDEA-black?style=flat-square&logo=phpstorm)
+  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)
 
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-white?style=square&logo=laravel)
