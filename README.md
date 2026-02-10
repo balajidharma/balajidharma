@@ -17,6 +17,10 @@ I´m Balaji Dharmaraja
   ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
   ![NestJs](https://img.shields.io/badge/NestJS-red?style=flat-square&logo=nestjs)
 
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)
+  ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff)
+
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-white?style=square&logo=laravel)
   ![Drupal](https://img.shields.io/badge/Drupal-blue?style=square&logo=drupal)
