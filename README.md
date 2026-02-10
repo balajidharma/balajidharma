@@ -11,6 +11,10 @@ I´m Balaji Dharmaraja
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)
   ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff)
 
+  ![React](https://img.shields.io/badge/-React-3b2e5a?style=square&logo=react)
+  ![Vue](https://img.shields.io/badge/-Vuejs-white?style=square&logo=Vue.js)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-3b2e5a?style=square&logo=JavaScript)
+
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
@@ -31,10 +35,6 @@ I´m Balaji Dharmaraja
   ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
-  
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=square&logo=react)
-  ![Vue](https://img.shields.io/badge/-Vuejs-white?style=square&logo=Vue.js)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-3b2e5a?style=square&logo=JavaScript)
 
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=square&logo=amazon-aws)
   ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=square&logo=amazons3&logoColor=white)
